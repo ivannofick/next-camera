@@ -1,0 +1,25 @@
+{
+  "name": "next-camera",
+  "version": "1.0.0",
+  "description": "camera library using typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "run next-camera"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivannofick/next-camera.git"
+  },
+  "keywords": [
+    "camera",
+    "nextjs",
+    "typescript",
+    "camera-using-typescrypt"
+  ],
+  "author": "ivannofick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivannofick/next-camera/issues"
+  },
+  "homepage": "https://github.com/ivannofick/next-camera#readme"
+}
